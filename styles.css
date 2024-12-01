@@ -1,4 +1,10 @@
+body {
+    padding: 25%;
+    text-align: center;
+}
+
 .grid {
+    margin: auto;
     border: 1px solid black;
     height: 180px;
     width: 180px;
